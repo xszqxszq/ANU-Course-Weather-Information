@@ -1,0 +1,18 @@
+.info-box {
+	width: 400px;
+	margin-top: 10px;
+}
+.title {
+	display: block;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+.info {
+	font-size: 15px;
+	color: grey;
+	text-align: center;
+}
+.big-icon {
+	font-size: 40px;
+}
